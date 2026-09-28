@@ -11,7 +11,7 @@ title_name = "Call of Duty: Black Ops"
 title_id = "41560855"
 
 [[plugin]]
-    name = "Oasis BO1"
+    name = "InfinityOps"
     file = "InfinityOps.xex"
     hash = "408AC9B9D7011930"
     desc = "GSC Injector for Black Ops 1"
