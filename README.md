@@ -18,7 +18,7 @@ title_id = "41560855"
     is_enabled = true
 ```
 ## "I have an issue"
-thats cool I don't. 
+Most likely it would be the hash in plugins.toml. You need to find your hash using xextool etc.
 
 # Credits
 ImJtagModz, Sabotage, Blasts Mods and Stridder
